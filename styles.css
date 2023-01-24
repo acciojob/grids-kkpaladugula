@@ -1,2 +1,8 @@
-
-/* Your CSS Code here. */
+.row{
+    height: 200px;
+}
+.container{
+    display: grid;
+    column-gap: 5px;
+    row-gap: 5px;
+}
